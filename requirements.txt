@@ -1,0 +1,6 @@
+flask
+requests
+flask-limiter
+cryptography
+openai
+python-dotenv
